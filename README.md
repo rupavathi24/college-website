@@ -5,9 +5,6 @@
   </head>
   <body>
     <h1>About Raghu Institute of Technology</h1>
-		<p>Raghu Institute of Technology is a private engineering college located in Visakhapatnam, Andhra Pradesh, India. The college offers undergraduate and postgraduate programs in various fields of engineering and technology.</p>
-	<img src="raghu logo2.jpg" alt="Raghu Institute of Technology">
-
     <p>Raghu Institute of Technology is a premier engineering college located in Visakhapatnam, Andhra Pradesh, India. It was established in 2001 and offers undergraduate and postgraduate programs in various engineering disciplines.</p>
     <p>The college has state-of-the-art infrastructure, well-equipped laboratories, and a highly qualified faculty. The college also has tie-ups with leading companies to provide industry exposure and placement opportunities to its students.</p>
     <h2>Vision</h2>
